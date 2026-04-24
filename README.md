@@ -1,9 +1,5 @@
 # CreditGuard ML — Credit Card Default Prediction
 
-**Master 2 ISIFAR — Statistical Learning**
-Université Paris Cité | 2025–2026
-Student: NGUYEN Chung Anh | Professor: Aurélie Fischer
-
 ---
 
 ## Overview
